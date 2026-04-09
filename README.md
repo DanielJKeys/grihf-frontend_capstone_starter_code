@@ -1,5 +1,3 @@
-Below is the content for your README.md file. It is formatted using standard Markdown to ensure it renders professionally on platforms like GitHub or GitLab, providing clear instructions and a structured overview of the project.
-
 Medical Appointment Booking
 🏥 Project Overview
 Medical Appointment Booking is a web-based platform developed for StayHealthy Inc., a non-profit organization dedicated to bringing medical resources to remote areas. As part of the "Go Digital" initiative, this website serves as a bridge between patients in underserved locations and healthcare professionals, ensuring timely consultations and reducing the risks associated with long-distance travel for medical care.
